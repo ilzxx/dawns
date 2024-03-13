@@ -1,6 +1,8 @@
 body{
     background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4TX8-N-Nx0r9P3LDrPc9Z96nnpKg-QWYPIg&usqp=CAU);
     background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
 }
 h1{
     color: aqua;
