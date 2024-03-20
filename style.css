@@ -81,3 +81,11 @@ a{
 li:hover{
     background: black;
 }
+img{
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
+.img2{
+    border-radius: 0;
+}
