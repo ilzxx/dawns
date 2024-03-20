@@ -93,21 +93,21 @@ img{
     width: auto;
 }
 #header{
-    background: #85d6e5;
+    background: #011f24;
     height: 150px;
 }
 #navigation{
-    background: #85d6e5;
+    background: #35aec4;
     height: 40px;
 }
 #content{
-    background: #85d6e5;
+    background: #00d9ff;
     float: left;
     width: 75%;
     height: 250px;
 }
 #sidebar{
-    background: #85d6e5;
+    background: #b4dae0;
     float: right;
     width: 25%;
     height: 250px;
@@ -117,6 +117,6 @@ img{
 }
 #flooter{
     margin-top: 4px;
-    background: #85d6e5;
+    background: #1a4249;
     height: 150px;
 }
