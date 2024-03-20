@@ -63,10 +63,15 @@ p{
     border-radius: 30px;
     box-shadow: 10px 10px 10px #4d4d4d;
 }
-ul{
+ol{
     background: #4d4d4d;
-    list-style: square;
+    list-style-type: upper-latin;
+    padding: 15px;
+    margin: 5px;
+
 }
 li{
     background: white;
+    padding: 15px;
+    margin: 5px;
 }
