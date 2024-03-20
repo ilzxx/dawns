@@ -78,3 +78,6 @@ li{
 a{
     color: red;
 }
+li:hover{
+    background: black;
+}
