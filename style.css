@@ -64,5 +64,9 @@ p{
     box-shadow: 10px 10px 10px #4d4d4d;
 }
 ul{
-    color:#ffffff
+    background: #4d4d4d;
+    list-style: square;
+}
+li{
+    background: white;
 }
