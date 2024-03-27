@@ -12,3 +12,8 @@ display: flex;
 flex: 50%;
 margin: 20px;
 }
+
+.logo{
+    width: 100px;
+    height: 100px;
+}
