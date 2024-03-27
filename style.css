@@ -1,3 +1,14 @@
 header{
     background-color: #F2FF00;
-}      
+}   
+footer{
+    background-color: #F2FF00;
+}   
+
+.footer-columns{
+display: flex;
+}
+.footer-column{
+flex: 50%;
+margin: 20px;
+}
