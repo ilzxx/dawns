@@ -31,3 +31,33 @@ main{
 .post img{
     margin: 20px;
 }
+#menu1{
+    position: relative;
+    display: block;
+    width: 100%;
+    height: auto;
+    z-index: 10;
+}
+#menu1 ul{
+    position: relative;
+    display: block;
+    margin: 0px;
+    padding: 0px;
+    width: 100%;
+    height: auto;
+    list-style: none;
+}
+#menu1 > ul ::after{
+    display: block;
+    width: 100%;
+    height: 0px;
+    clear: both;
+    content: " ";
+}
+#menu ul li{
+    position: relative;
+    display: block;
+    float: left;
+    width: auto;
+    height: auto;
+}
