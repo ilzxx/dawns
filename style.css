@@ -20,6 +20,7 @@ margin: 20px;
 main{
     padding: 10px;
     background-color: silver;
+    font-family: "Yarndings 12";
 }
 
 .sliderimg{
@@ -115,4 +116,12 @@ main{
  
  #menu1 ul li ul li:first-child a{
     border-top: 0px;
+ }
+
+ h3 {
+   font-family: "Reem Kufi Fun";
+ }
+
+ p {
+   font-family: "Noto Sans Old Persian";
  }
